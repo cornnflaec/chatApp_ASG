@@ -19,10 +19,11 @@ npm install sass react-router-dom uuid firestore
 npm start
 ```
 # How to use (for testing purposes)
-1. Create an account
-2. Once logged in to first account.
-3. Create an incognito tab and open localhost:3000 to create a second account.
-4. Search for the second account's name and try to send a message.
+1. open localhost:3000/register
+2  Create an account.
+3. Once logged in to first account.
+4. Create an incognito tab and open localhost:3000 to create a second account.
+5. Search for the second account's name and try to send a message.
 
 ## Here are the links I used for creating the application : 
 
